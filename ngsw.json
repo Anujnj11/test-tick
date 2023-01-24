@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1674596305212,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.70af73e45cb75c7f.js",
+        "/manifest.webmanifest",
+        "/polyfills.7a1c7df86650de05.js",
+        "/runtime.0597e404d6678430.js",
+        "/scripts.698cec85c5caa43b.js",
+        "/styles.e73dde31af52c241.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-192-192.png",
+        "/assets/images/arrow_right_uts.png",
+        "/assets/images/book_ticket_uts.png",
+        "/assets/images/booking_history_uts.png",
+        "/assets/images/c_c.png",
+        "/assets/images/cancel_ticket_uts.png",
+        "/assets/images/change-lang.png",
+        "/assets/images/cris_uts_ac_bar.png",
+        "/assets/images/download.png",
+        "/assets/images/ir_uts.png",
+        "/assets/images/login_btn_uts.png",
+        "/assets/images/logo_uts.png",
+        "/assets/images/payment_option_uts.png",
+        "/assets/images/platform_ticket_uts.png",
+        "/assets/images/profile_avatar_uts.png",
+        "/assets/images/qr_booking_uts.png",
+        "/assets/images/quick_booking_uts.png",
+        "/assets/images/r_wallet_uts.png",
+        "/assets/images/season_ticket_uts.png",
+        "/assets/images/show_booked_ticket_uts.png",
+        "/assets/images/splash_uts.png",
+        "/assets/images/titles_bg_uts.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-192-192.png": "2156d90b8ff70685035a9d7e2263eb939ad24be8",
+    "/assets/images/arrow_right_uts.png": "e6114727f3ca5b1037f612befa74ebb9aa63c3f8",
+    "/assets/images/book_ticket_uts.png": "c2c2fcb174764d8d1360931fc5695f35f179f101",
+    "/assets/images/booking_history_uts.png": "919aec7f0cfab293ac2f6f9c476ad48566ce40a6",
+    "/assets/images/c_c.png": "b2ad3f2977555f930c0ac4323783062df0415270",
+    "/assets/images/cancel_ticket_uts.png": "162cff56277ab4ebfe19a430daead6a35a75bb81",
+    "/assets/images/change-lang.png": "67b367f658106b2155327da9c4249059dce04883",
+    "/assets/images/cris_uts_ac_bar.png": "5154e3349e6bc232c11082aaa19dea6b32f3ba2c",
+    "/assets/images/download.png": "c126e82376ea0c5d0b66774808cfce669bcc5d4e",
+    "/assets/images/ir_uts.png": "899ca9993eec1e1ac989901f9cc5b014423e8dca",
+    "/assets/images/login_btn_uts.png": "3cf1be5f09f524e8cdf14c83f31ba82fbdc1bb3e",
+    "/assets/images/logo_uts.png": "d0bd681c436428427fc490876873274ff310be98",
+    "/assets/images/payment_option_uts.png": "9c5f67891816fa213eb6dd891bc06b44d3a4b5a5",
+    "/assets/images/platform_ticket_uts.png": "8aac06afb8c96e0b579a5e76f1062366acdb500f",
+    "/assets/images/profile_avatar_uts.png": "8a8d92b7ad08bcd0bf1fe8688294bc88d48f84a6",
+    "/assets/images/qr_booking_uts.png": "72ce555dadfd0527d0886bf80a1c32ff4be12bbc",
+    "/assets/images/quick_booking_uts.png": "c3ee3acf037686133e49e51c03eac8d5d14575f6",
+    "/assets/images/r_wallet_uts.png": "21928d942374d2e8ef2579c49adb2ee07faac6f9",
+    "/assets/images/season_ticket_uts.png": "44098596d77720f9ad23d508cfdff3c9aa8467c9",
+    "/assets/images/show_booked_ticket_uts.png": "662912d1834690f7de62f068a255fd5cfcd1267f",
+    "/assets/images/splash_uts.png": "5c05439833c601947774877eed4fd3f4b5d11b40",
+    "/assets/images/titles_bg_uts.png": "20f8a7291b7e46dfa5a809d27d5f801b92b2c0f4",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "ce172eb6c0eb549fcef70e0b961dfabb29a26adb",
+    "/main.70af73e45cb75c7f.js": "d327178a3c52a1691c3e62dd840d9307852ce3ac",
+    "/manifest.webmanifest": "4c9d14654ef4d69944a20ce83cad19a9d7299d44",
+    "/polyfills.7a1c7df86650de05.js": "614625928f2bcae9bccbd8a441be601bc0d416f8",
+    "/runtime.0597e404d6678430.js": "d1d483a6e22227e802df6038c1f419ff125e46ff",
+    "/scripts.698cec85c5caa43b.js": "4753db41b470d6a7f74c8ee032f1830e7515c85a",
+    "/styles.e73dde31af52c241.css": "73d44c2d969b72ca94724ce1c0e5234c46b7cca2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
