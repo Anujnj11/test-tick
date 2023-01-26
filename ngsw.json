@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674750152286,
+  "timestamp": 1674755131175,
   "index": "https://anujnj11.github.io/test-tick/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://anujnj11.github.io/test-tick/favicon.ico",
         "https://anujnj11.github.io/test-tick/index.html",
-        "https://anujnj11.github.io/test-tick/main.dba1dddd1f0c8320.js",
+        "https://anujnj11.github.io/test-tick/main.8ec69410a429cfb2.js",
         "https://anujnj11.github.io/test-tick/manifest.webmanifest",
         "https://anujnj11.github.io/test-tick/polyfills.7a1c7df86650de05.js",
         "https://anujnj11.github.io/test-tick/runtime.0597e404d6678430.js",
@@ -38,6 +38,7 @@
         "https://anujnj11.github.io/test-tick/assets/images/c_c.png",
         "https://anujnj11.github.io/test-tick/assets/images/cancel_ticket_uts.png",
         "https://anujnj11.github.io/test-tick/assets/images/change-lang.png",
+        "https://anujnj11.github.io/test-tick/assets/images/cris_uts.png",
         "https://anujnj11.github.io/test-tick/assets/images/cris_uts_ac_bar.png",
         "https://anujnj11.github.io/test-tick/assets/images/destination_uts.png",
         "https://anujnj11.github.io/test-tick/assets/images/download.png",
@@ -71,6 +72,7 @@
     "https://anujnj11.github.io/test-tick/assets/images/c_c.png": "b2ad3f2977555f930c0ac4323783062df0415270",
     "https://anujnj11.github.io/test-tick/assets/images/cancel_ticket_uts.png": "162cff56277ab4ebfe19a430daead6a35a75bb81",
     "https://anujnj11.github.io/test-tick/assets/images/change-lang.png": "67b367f658106b2155327da9c4249059dce04883",
+    "https://anujnj11.github.io/test-tick/assets/images/cris_uts.png": "a2aaec70b8efcfa7ddca836ab146f7d79d035f07",
     "https://anujnj11.github.io/test-tick/assets/images/cris_uts_ac_bar.png": "5154e3349e6bc232c11082aaa19dea6b32f3ba2c",
     "https://anujnj11.github.io/test-tick/assets/images/destination_uts.png": "23521123d93f3500fa554ecc4420290d67fed324",
     "https://anujnj11.github.io/test-tick/assets/images/download.png": "c126e82376ea0c5d0b66774808cfce669bcc5d4e",
@@ -91,8 +93,8 @@
     "https://anujnj11.github.io/test-tick/assets/images/ticket_white_uts.png": "f375c32d4f8a03fdf6cfd9d0a7a6c0d18f4104be",
     "https://anujnj11.github.io/test-tick/assets/images/titles_bg_uts.png": "20f8a7291b7e46dfa5a809d27d5f801b92b2c0f4",
     "https://anujnj11.github.io/test-tick/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://anujnj11.github.io/test-tick/index.html": "ef37a338a470a7ebcd3ceea55b5eb249aba2d78f",
-    "https://anujnj11.github.io/test-tick/main.dba1dddd1f0c8320.js": "cb3601f001d5f908a692623054b9f657afc86af5",
+    "https://anujnj11.github.io/test-tick/index.html": "c4d9ed6b671f7b1ce3d533e3003e2cf6a5be26f9",
+    "https://anujnj11.github.io/test-tick/main.8ec69410a429cfb2.js": "123e91ec64086dfba52d7ac22e271e9ee1f67bd1",
     "https://anujnj11.github.io/test-tick/manifest.webmanifest": "4c9d14654ef4d69944a20ce83cad19a9d7299d44",
     "https://anujnj11.github.io/test-tick/polyfills.7a1c7df86650de05.js": "614625928f2bcae9bccbd8a441be601bc0d416f8",
     "https://anujnj11.github.io/test-tick/runtime.0597e404d6678430.js": "d1d483a6e22227e802df6038c1f419ff125e46ff",
